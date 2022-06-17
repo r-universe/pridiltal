@@ -1,0 +1,14 @@
+[
+  {
+    "package": "oddstream",
+    "oncran": true
+  },
+  {
+    "package": "staplr",
+    "oncran": true
+  },
+  {
+    "package": "stray",
+    "oncran": true
+  }
+]
