@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "oddstream"]
 	path = oddstream
 	url = https://github.com/pridiltal/oddstream
-	shallow = true
-	registered = true
 [submodule "staplr"]
 	path = staplr
 	url = https://github.com/pridiltal/staplr
-	shallow = true
-	registered = true
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
-	shallow = true
-	registered = true
