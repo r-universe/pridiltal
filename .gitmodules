@@ -5,9 +5,6 @@
 [submodule "oddstream"]
 	path = oddstream
 	url = https://github.com/pridiltal/oddstream
-[submodule "staplr"]
-	path = staplr
-	url = https://github.com/pridiltal/staplr
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
